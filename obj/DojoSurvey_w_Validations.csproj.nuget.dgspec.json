@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/nicholashernandez/Desktop/C#/C#_.NETCore/DojoSurvey_w_Validations/DojoSurvey_w_Validations.csproj": {}
+  },
+  "projects": {
+    "/Users/nicholashernandez/Desktop/C#/C#_.NETCore/DojoSurvey_w_Validations/DojoSurvey_w_Validations.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nicholashernandez/Desktop/C#/C#_.NETCore/DojoSurvey_w_Validations/DojoSurvey_w_Validations.csproj",
+        "projectName": "DojoSurvey_w_Validations",
+        "projectPath": "/Users/nicholashernandez/Desktop/C#/C#_.NETCore/DojoSurvey_w_Validations/DojoSurvey_w_Validations.csproj",
+        "packagesPath": "/Users/nicholashernandez/.nuget/packages/",
+        "outputPath": "/Users/nicholashernandez/Desktop/C#/C#_.NETCore/DojoSurvey_w_Validations/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nicholashernandez/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/5.0.406/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
